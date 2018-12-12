@@ -1,0 +1,54 @@
+header {
+	background: #fcfc07;
+}
+
+body {
+	background: #b3b3b3;
+}
+
+footer {
+	background: #fcfc07;
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+
+.blank {
+	background: #fff;
+	padding-bottom: 1%;
+}
+
+section {
+	padding-top: 3%;
+	margin-bottom: 15%;
+}
+
+.form {
+	padding-top: 1%;
+	padding-left: 2%;
+}
+
+.space {
+	height: 15px;
+}
+
+.pagination {
+	margin-left: 50px;
+}
+
+.pagination li a {
+	color: #ec971f;
+}
+
+.pagination li a:hover {
+	color: #ec971f;
+}
+
+.pagination .active span{
+	background-color: #ec971f;
+	border-color:     #985f0d;
+}
+
+.pagination .active span:hover{
+	background-color: #B97618;
+	border-color:     #985f0d;
+}
